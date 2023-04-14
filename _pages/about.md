@@ -7,8 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<h1 class="rainbow-title">HI, I'M XINGJIAN</h1>
+
 <style>
-h1 {
+.rainbow-title {
   background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
