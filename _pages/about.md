@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "HI, I'M XINGJIAN"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 <h1 class="rainbow-title">HI, I'M XINGJIAN</h1>
 
 <style>
