@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xingjian (Mateo) Ma"
   avatar           : "Pixel_head.JPG"
-  bio              : "People's dreams don't ever end!"
+  bio              : # "People's dreams don't ever end!"
   location         : "Madison, WI"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=xV_XcpgAAAAJ&hl=en"
+  email            : "xma342@wisc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
