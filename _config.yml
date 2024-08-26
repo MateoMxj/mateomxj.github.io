@@ -85,7 +85,7 @@ author:
   bio              : # "People's dreams don't ever end!"
   location         : "Madison, WI"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xV_XcpgAAAAJ&hl=en"
   email            : "xma342@wisc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
